@@ -73,12 +73,12 @@
 
 
 #form .message ._placeholder {
-	height: 100% !important;
+	height: 40% !important;
 }
 #form label {
 	position:relative;
 	display: block;
-	min-height: 80px;
+	min-height: 50px;
 	float: left;
 	width: 177px;
 }
@@ -89,7 +89,7 @@
 
 
 #form label.message {
-	width: 100%;
+	width: 80%;
 	position: relative;
 	margin-left: 0;
 }
@@ -125,7 +125,7 @@
 }
 
 .btns {
-	text-align: right;
+	text-align: center;
 	padding-top: 49px;
 	font-size: 0;
 	line-height: 0;
